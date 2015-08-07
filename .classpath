@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/haivvreo-1.0.7-cdh-2.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/high-scale-lib-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-anttasks-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-cli-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-common-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-contrib-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-exec-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-hbase-handler-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-hwi-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-jdbc-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-metastore-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-serde-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-service-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/hive-shims-0.7.1-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hadoop-0.20.2-cdh3u5/hadoop-core-0.20.2-cdh3u5.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/libfb303.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/libthrift.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/thrift-0.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/thrift-fb303-0.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/samar.kumar/Work/cdh3/hive-0.7.1-cdh3u6/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

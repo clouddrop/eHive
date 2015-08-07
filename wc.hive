@@ -1,0 +1,10 @@
+#$HIVE_HOME/bin/hive -f /home/my/hive-script.sql
+
+CREATE EXTERNAL TABLE WC (words STRING) location '/tmp/listofwords/' ;
+select word, count(1) from wc LATERAL VIEW   explode(split(words , ' '))temptable AS word     group by word ;
+
+insert overwrite local directory '/tmp/hiveoutput' select count(*) from wc  where words=='one'  limit 5; 
+
+
+
+

@@ -1,0 +1,20 @@
+<configuration>
+	<property>
+		<name>hbase.rootdir</name>
+		<value>file:///tmp/hbase_cdh3u5</value>
+	</property>
+	<property>
+		<name>hbase.zookeeper.property.dataDir</name>
+		<value>/tmp/zookeeper__cdh3u5</value>
+	</property>
+
+	<property>
+		<name>hbase.cluster.distributed</name>
+		<value>false</value>
+	</property>
+	<property>
+		<name>hbase.zookeeper.quorum</name>
+		<value>localhost</value>
+	</property>
+
+</configuration>
